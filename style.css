@@ -1,0 +1,44 @@
+body {
+  margin: 0;
+}
+* {
+  box-sizing: border-box;
+}
+.logo {
+  
+}
+.navbar {
+  display: flex;
+  margin: 10px;
+}
+.navbar ul {
+  display: flex;
+  list-style-type: none;
+}
+.navbar ul li a{
+  text-decoration: none;
+  padding: 30px;
+
+  font-family: Arial;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 16px;
+  line-height: 24px;
+
+  color: #40494D;
+}
+/* .search {
+  border: 1px solid #40494D;
+  border-radius: 28px;
+} */
+
+.btn {
+  background-color: #283337;
+  padding: 10px;
+  border-radius: 55px;
+  border: none;
+}
+.btn a {
+  color: white;
+  text-decoration: none;
+}
