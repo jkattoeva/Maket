@@ -1,8 +1,6 @@
-body {
-  margin: 0;
-}
 * {
   box-sizing: border-box;
+  margin: 0;
 }
 header {
   padding: 20px;
@@ -26,7 +24,7 @@ header {
   font-weight: normal;
   font-size: 16px;
   line-height: 24px;
-  color: #40494D;
+  color: #40494d;
 }
 /* .search {
   border: 2px solid #283337;
@@ -48,9 +46,13 @@ header {
   float: right;
   margin-right: 80px;
 }
-.intro{
-  background-color:  #F3F7F4;
+.intro {
+  background-color: #f3f7f4;
   padding: 150px 70px;
+  margin: 0 auto;
+}
+.text {
+  padding-top: 60px;
 }
 .intro h3 {
   font-family: Times New Roman;
@@ -58,7 +60,17 @@ header {
   font-weight: normal;
   color: #283337;
 }
+.intro p {
+  font-family: Arial;
+  color: #40494D;
+  margin: 30px 0 20px 0;
+}
+.nasa {
+  display: flex;
+  justify-content: space-between;
 
+  margin-top: 120px
+}
 
 .container {
   max-width: 1100px;
