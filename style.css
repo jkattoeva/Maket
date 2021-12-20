@@ -1,7 +1,7 @@
 * {
   box-sizing: border-box;
   margin: 0;
-  font-family: FT Polar,Helvetica Neue,Helvetica,Arial,sans-serif;
+  font-family: FT Polar, Helvetica Neue, Helvetica, Arial, sans-serif;
   font-weight: 300;
 }
 header {
@@ -21,9 +21,7 @@ header {
 .navbar li a {
   text-decoration: none;
   padding: 30px;
-  font-family: Arial;
   font-style: normal;
-  font-weight: normal;
   font-size: 16px;
   line-height: 24px;
   color: #40494d;
@@ -41,8 +39,6 @@ header {
 .btn a {
   color: white;
   text-decoration: none;
-}
-.first-body {
 }
 .img-right {
   float: right;
@@ -64,14 +60,14 @@ header {
 }
 .intro p {
   font-family: Arial;
-  color: #40494D;
+  color: #40494d;
   margin: 30px 0 20px 0;
 }
 .nasa {
   display: flex;
   justify-content: space-between;
 
-  margin-top: 120px
+  margin-top: 120px;
 }
 
 .container {
@@ -83,8 +79,6 @@ header {
   gap: 100px;
 }
 
-[class^="col"] {
-}
 .col {
   flex: 1 0 0;
 }
