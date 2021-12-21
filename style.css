@@ -18,10 +18,10 @@ header .logo {
   height: 120px;
   padding: 40px 0;
 }
-.navigation {
+.navbar {
   flex-basis: 100%;
 }
-.navbar ul {
+.navbar ul{
   flex-direction: row;
   align-items: center;
   justify-content: flex-end;
