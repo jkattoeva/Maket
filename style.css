@@ -40,14 +40,28 @@ header {
   color: white;
   text-decoration: none;
 }
+.wrapper {
+  max-width: 1330px;
+  padding: 0 25px;
+  margin: 0 auto;
+  position: relative;
+  z-index: 50;
+}
 
 .intro {
   background-color: #f3f7f4;
   padding: 150px 70px;
   margin: 0 auto;
 }
+.generalic {
+  display: flex;
+  align-items: center;
+  position: relative;
+  left: 25px;
+  padding-bottom: 40px;
+}
 .text {
-  padding-top: 60px;
+  margin: 0 0 80px;
 }
 .intro h3 {
   font-family: Times New Roman;
@@ -60,13 +74,18 @@ header {
   color: #40494d;
   margin: 30px 0 20px 0;
 }
-.nasa {
-  display: flex;
-  justify-content: space-between;
 
-  margin-top: 120px;
+.logotips {
+  padding-top: 100px;
 }
-
+.logos {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-evenly;
+}
+.logos > img {
+  padding: 25px;
+}
 .container {
   max-width: 1100px;
   margin: 0 auto;
@@ -74,9 +93,6 @@ header {
 .row {
   display: flex;
   gap: 100px;
-}
-.results {
-  padding: ;
 }
 
 .col {
