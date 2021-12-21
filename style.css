@@ -17,6 +17,7 @@ header {
   display: flex;
   flex-direction: row;
   list-style-type: none;
+  margin-top: 10px;
 }
 .navbar li a {
   text-decoration: none;
@@ -32,13 +33,14 @@ header {
 } */
 .btn {
   background-color: #283337;
-  padding: 10px;
+  padding: 15px 20px;
   border-radius: 55px;
   border: none;
 }
 .btn a {
   color: white;
   text-decoration: none;
+  font-size: 15px;
 }
 .wrapper {
   max-width: 1330px;
@@ -65,7 +67,7 @@ header {
 }
 .intro h3 {
   font-family: Times New Roman;
-  font-size: 50px;
+  font-size: 60px;
   font-weight: normal;
   color: #283337;
 }
@@ -86,6 +88,13 @@ header {
 .logos > img {
   padding: 25px;
 }
+
+.content {
+  display: flex;
+  padding: 80px;
+  margin: -80px 0 0;
+}
+
 .container {
   max-width: 1100px;
   margin: 0 auto;
