@@ -6,28 +6,17 @@
 }
 header {
   width: 100%;
-  box-shadow: 0 4px 8px rgb(40 51 55 / 8%);
-}
-.wrapper {
-  display: flex;
-  justify-content: space-between;
-  flex-wrap: nowrap;
-}
-header .logo {
-  width: 146px;
-  height: 120px;
-  padding: 40px 0;
+  padding: 20px;
+  margin: 0 auto;
 }
 .navbar {
-  flex-basis: 100%;
+  display: flex;
+  justify-content: space-between;
 }
-.navbar ul{
+.navbar ul {
+  display: flex;
   flex-direction: row;
-  align-items: center;
-  justify-content: flex-end;
-  height: 100%;
-  width: 100%;
-  margin: 0;
+  list-style-type: none;
 }
 .navbar li a {
   text-decoration: none;
@@ -51,10 +40,7 @@ header .logo {
   color: white;
   text-decoration: none;
 }
-.img-right {
-  float: right;
-  margin-right: 80px;
-}
+
 .intro {
   background-color: #f3f7f4;
   padding: 150px 70px;
@@ -90,7 +76,7 @@ header .logo {
   gap: 100px;
 }
 .results {
-  padding: 50px;
+  padding: ;
 }
 
 .col {
