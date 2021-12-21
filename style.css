@@ -6,17 +6,28 @@
 }
 header {
   width: 100%;
-  padding: 20px;
-  margin: 0 auto;
+  box-shadow: 0 4px 8px rgb(40 51 55 / 8%);
 }
-.navbar {
+.wrapper {
   display: flex;
   justify-content: space-between;
+  flex-wrap: nowrap;
+}
+header .logo {
+  width: 146px;
+  height: 120px;
+  padding: 40px 0;
+}
+.navigation {
+  flex-basis: 100%;
 }
 .navbar ul {
-  display: flex;
   flex-direction: row;
-  list-style-type: none;
+  align-items: center;
+  justify-content: flex-end;
+  height: 100%;
+  width: 100%;
+  margin: 0;
 }
 .navbar li a {
   text-decoration: none;
@@ -77,6 +88,9 @@ header {
 .row {
   display: flex;
   gap: 100px;
+}
+.results {
+  padding: 50px;
 }
 
 .col {
