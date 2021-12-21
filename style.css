@@ -65,10 +65,6 @@ header {
 .text {
   margin: 0 0 80px;
 }
-#text {
-  margin: 0 ;
-  padding: 0 40px 0 0;
-}
 .intro h3 {
   font-family: Times New Roman;
   font-size: 60px;
@@ -101,7 +97,19 @@ header {
 .cards {
   padding: 80px;
 }
-
+#text {
+  padding: 0 40px 0 0;
+  margin: 0 0 26px;
+}
+.cont {
+  padding-top: 35px;
+}
+.cont p {
+  font-size: 1.125rem;
+  line-height: 1.4;
+  margin: 0 0 26px;
+}
+.results 
 .container {
   max-width: 1100px;
   margin: 0 auto;
