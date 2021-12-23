@@ -109,7 +109,9 @@ header {
   line-height: 1.4;
   margin: 0 0 26px;
 }
-.results 
+.results {
+  padding: 220px 150px;
+}
 .container {
   max-width: 1100px;
   margin: 0 auto;
