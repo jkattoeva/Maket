@@ -112,6 +112,9 @@ header {
 .results {
   padding: 220px 150px;
 }
+.results > h1 {
+  font-family: Arial;
+}
 .container {
   max-width: 1100px;
   margin: 0 auto;
