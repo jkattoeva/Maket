@@ -122,7 +122,10 @@ header {
 }
 .card {
   font-family: Arial;
-  color: ;
+  font-weight: 300;
+}
+.card h2 {
+  margin: 0 0 20px 0;
 }
 
 
