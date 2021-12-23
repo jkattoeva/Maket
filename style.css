@@ -111,6 +111,7 @@ header {
 }
 .results {
   padding: 220px 150px;
+  color: #283337;
 }
 .results h1 {
   font-family: Times New Roman;
@@ -119,6 +120,14 @@ header {
   text-align: center;
   font-size: 3rem;
 }
+.card {
+  font-family: Arial;
+  color: ;
+}
+
+
+
+
 .container {
   max-width: 1100px;
   margin: 0 auto;
