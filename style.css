@@ -83,7 +83,7 @@ header {
 .logos {
   display: flex;
   flex-wrap: wrap;
-  justify-content: space-evenly;
+  justify-content: space-between;
 }
 .logos > img {
   padding: 25px;
@@ -148,6 +148,7 @@ header {
 }
 .text-video {
   display: flex;
+  align-items: center;
 }
 .koin-difference {
   width: 50%;
