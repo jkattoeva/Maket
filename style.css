@@ -146,6 +146,17 @@ header {
 .video {
   padding: 150px 0;
 }
+.text-video {
+  display: flex;
+}
+.koin-difference {
+  width: 50%;
+  padding: 0 40px 0 25px;
+}
+
+.video-koin {
+  width: 50%;
+}
 
 
 
