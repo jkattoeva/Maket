@@ -211,7 +211,11 @@ header {
   text-align: center;
 }
 .journey h1 {
-
+  font-family: Times New Roman;
+  color: #283337;
+  font-weight: bold;
+  font-size: 3.75rem;
+  line-height: 1;
 }
 .col {
   flex: 1 0 0;
