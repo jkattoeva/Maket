@@ -208,6 +208,10 @@ header {
 }
 .journey {
   padding: 145px 0 150px;
+  text-align: center;
+}
+.journey h1 {
+
 }
 .col {
   flex: 1 0 0;
