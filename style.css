@@ -225,6 +225,15 @@ header {
   margin-bottom: 45px;
   font-size: 2rem;
 }
+
+footer {
+  padding: 100px 0 35px;
+  background-color: #283337;
+}
+
+
+
+
 .col {
   flex: 1 0 0;
 }
