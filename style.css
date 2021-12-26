@@ -121,7 +121,7 @@ header {
   font-weight: bold;
   margin: 0 0 70px 0;
   text-align: center;
-  font-size: 3rem;
+  font-size: 3.7rem;
 }
 .automation {
   font-family: Arial;
@@ -129,13 +129,16 @@ header {
 }
 .automation h2 {
   margin: 0 0 20px 0;
-  font-size: 3rem;
+  font-size: 3.5rem;
+  text-align: center;
+}
+.automation p {
+  text-align: center;
 }
 /* .card p {
 ;
 
 } */
-
 
 .video {
   padding: 0 150px;
