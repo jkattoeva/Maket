@@ -216,6 +216,10 @@ header {
   font-weight: bold;
   font-size: 3.75rem;
   line-height: 1;
+  margin-bottom: 45px;
+}
+.journey h3 {
+  
 }
 .col {
   flex: 1 0 0;
