@@ -123,7 +123,7 @@ header {
   text-align: center;
   font-size: 3.7rem;
 }
-.results p  {
+.results p {
   line-height: 1.5rem;
 }
 .automation {
@@ -157,11 +157,11 @@ header {
 .video-koin {
   width: 50%;
 }
-.koin-difference {
-  
+.koin-difference h1 {
+  font-family: Times New Roman;
+  font-size: 4rem;
+  font-weight: bold;
 }
-
-
 
 .container {
   max-width: 1100px;
