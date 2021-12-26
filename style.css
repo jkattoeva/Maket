@@ -33,14 +33,14 @@ header {
 } */
 .btn {
   background-color: #283337;
-  padding: 15px 20px;
+  padding: 25px 50px;
   border-radius: 55px;
   border: none;
 }
 .btn a {
   color: white;
   text-decoration: none;
-  font-size: 15px;
+  font-size: 20px;
 }
 .wrapper {
   max-width: 1330px;
@@ -219,7 +219,11 @@ header {
   margin-bottom: 45px;
 }
 .journey h3 {
-  
+  font-family: Arial;
+  font-weight: normal;
+  color: #283337;
+  margin-bottom: 45px;
+  font-size: 2rem;
 }
 .col {
   flex: 1 0 0;
