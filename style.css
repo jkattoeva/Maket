@@ -113,7 +113,7 @@ header {
   background-color: #f3f7f4;
 }
 .results {
-  padding: 220px 150px;
+  padding: 220px 50px 150px;
   color: #283337;
 }
 .results h1 {
@@ -122,6 +122,9 @@ header {
   margin: 0 0 70px 0;
   text-align: center;
   font-size: 3.7rem;
+}
+.results p  {
+  line-height: 1.5rem;
 }
 .automation {
   font-family: Arial;
