@@ -225,14 +225,19 @@ header {
   margin-bottom: 45px;
   font-size: 2rem;
 }
+.bc-2 {
+  background-color: #101c21;
+}
 
 footer {
   padding: 100px 0 35px;
-  background-color: #283337;
 }
-
-
-
+.ourproduct h1 {
+  margin-bottom: 16px;
+}
+.ourproduct ul li {
+  margin: 0 0 13px;
+}
 
 .col {
   flex: 1 0 0;
