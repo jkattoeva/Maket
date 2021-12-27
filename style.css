@@ -235,9 +235,11 @@ footer {
 .ourproduct h1 {
   margin-bottom: 16px;
 }
-.ourproduct ul li {
+.ourproduct .parametrs li {
   margin: 0 0 13px;
 }
+.ourproduct .parametrs li
+
 
 .col {
   flex: 1 0 0;
