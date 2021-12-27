@@ -238,7 +238,9 @@ footer {
 .ourproduct .parametrs li {
   margin: 0 0 13px;
 }
-.ourproduct .parametrs li
+.ourproduct .parametrs li {
+  margin: 0 0 13px;
+}
 
 
 .col {
