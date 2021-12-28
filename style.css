@@ -233,13 +233,15 @@ footer {
   padding: 100px 0 35px;
 }
 .logo-right {
-  float: right  ;
+  float: right;
 }
 .ourproduct p {
-  margin-bottom: 20px;
+  margin: 0 0 20px 40px;
 }
 .ourproduct ul li {
   margin: 0 0 13px;
+  list-style-type: none;
+  color: #878d90;
 }
 .parametrs {
   margin-bottom: 30px;
@@ -254,8 +256,7 @@ footer {
 }
 .ourproduct .btn {
   margin: 45px 0;
-} 
-
+}
 
 .col {
   flex: 1 0 0;
