@@ -235,7 +235,7 @@ footer {
 .logo-right {
   float: right  ;
 }
-.ourproduct h1 {
+.ourproduct p {
   margin-bottom: 20px;
 }
 .ourproduct ul li {
@@ -253,8 +253,7 @@ footer {
   font-family: Arial;
 }
 .ourproduct .btn {
-  color: white;
-  font-family: Arial;
+  margin: 45px 0;
 } 
 
 
