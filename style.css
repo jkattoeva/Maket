@@ -82,7 +82,7 @@ header {
 }
 .intro .btn {
   margin: 0 0 -10px;
-} 
+}
 .woman {
   width: 50%;
 }
@@ -107,7 +107,6 @@ header {
 .cards {
   padding: 80px;
 }
-
 #text {
   padding: 0 40px 0 0;
   margin: 0 0 26px;
@@ -121,14 +120,19 @@ header {
 #text p {
   font-family: Arial;
   color: #40494d;
+  font-size: 1.125rem;
+  line-height: 1.4;
+  margin: 0 0 26px;
 }
 .cont {
   padding-top: 35px;
 }
-.cont p {
-  font-size: 1.125rem;
-  line-height: 1.4;
-  margin: 0 0 26px;
+.cont .btn {
+  margin: 0 0 -20px;
+}
+.cont p a {
+  font-weight: 400;
+  color: #40494d;
 }
 .bc {
   background-color: #f3f7f4;
