@@ -112,6 +112,9 @@ header {
   font-weight: normal;
   color: #283337;
 }
+#text p {
+  font-family: Arial;
+}
 .cont {
   padding-top: 35px;
 }
