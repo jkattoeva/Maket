@@ -232,15 +232,30 @@ header {
 footer {
   padding: 100px 0 35px;
 }
+.logo-right {
+  float: right  ;
+}
 .ourproduct h1 {
-  margin-bottom: 16px;
+  margin-bottom: 20px;
 }
-.ourproduct .parametrs li {
+.ourproduct ul li {
   margin: 0 0 13px;
 }
-.ourproduct .parametrs li {
+.parametrs {
+  margin-bottom: 30px;
+}
+.ourproduct .parametrs-2 li {
   margin: 0 0 13px;
 }
+footer {
+  padding: 100px 0 35px;
+  color: white;
+  font-family: Arial;
+}
+.ourproduct .btn {
+  color: white;
+  font-family: Arial;
+} 
 
 
 .col {
