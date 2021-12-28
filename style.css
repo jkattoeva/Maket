@@ -229,19 +229,18 @@ header {
   background-color: #101c21;
 }
 
-footer {
-  padding: 100px 0 35px;
-}
 .logo-right {
   float: right;
 }
 .ourproduct p {
   margin: 0 0 20px 40px;
+  color: #878d90;
+
 }
 .ourproduct ul li {
   margin: 0 0 13px;
   list-style-type: none;
-  color: #878d90;
+  color: #CFD2D3;
 }
 .parametrs {
   margin-bottom: 30px;
@@ -253,8 +252,12 @@ footer {
   padding: 100px 0 35px;
   color: white;
   font-family: Arial;
+  font-weight: 300;
 }
-.ourproduct .btn {
+.top {
+  display: flex;
+}
+.top .btn {
   margin: 45px 0;
 }
 
