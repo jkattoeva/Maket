@@ -12,12 +12,14 @@ header {
 .navbar {
   display: flex;
   justify-content: space-between;
+  align-items: center;
 }
 .navbar ul {
   display: flex;
   flex-direction: row;
   list-style-type: none;
   margin-top: 10px;
+  align-items: center;
 }
 .navbar li a {
   text-decoration: none;
@@ -27,13 +29,15 @@ header {
   line-height: 24px;
   color: #40494d;
 }
-/* .search {
+.circle img {
+  padding: 10px;
+  margin: ;
   border: 2px solid #283337;
   border-radius: 56px;
-} */
+}
 .btn {
   background-color: #283337;
-  padding: 25px 50px;
+  padding: 20px 45px;
   border-radius: 55px;
   border: none;
 }
