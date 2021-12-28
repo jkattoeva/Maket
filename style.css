@@ -32,7 +32,7 @@ header {
 .circle img {
   padding: 20px;
   margin: 0 0 0 55px;
-  border: 2px solid #40494D;
+  border: 2px solid #40494d;
   border-radius: 56px;
 }
 .btn {
@@ -105,6 +105,12 @@ header {
 #text {
   padding: 0 40px 0 0;
   margin: 0 0 26px;
+}
+#text h1 {
+  font-family: Times New Roman;
+  font-size: 60px;
+  font-weight: normal;
+  color: #283337;
 }
 .cont {
   padding-top: 35px;
@@ -236,17 +242,15 @@ header {
 
 .logo-right {
   float: right;
-
 }
 .ourproduct p {
   margin: 0 0 20px 40px;
   color: #878d90;
-
 }
 .ourproduct ul li {
   margin: 0 0 13px;
   list-style-type: none;
-  color: #CFD2D3;
+  color: #cfd2d3;
 }
 .parametrs {
   margin-bottom: 30px;
