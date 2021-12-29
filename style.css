@@ -457,6 +457,9 @@ ul {
 input {
   padding-left: 40px;
 }
+.label {
+  font-size: 18px;
+}
 
 /* default */
 
