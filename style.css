@@ -120,12 +120,18 @@ header {
 #text p {
   font-family: Arial;
   color: #40494d;
-  font-size: 1.125rem;
+  font-size: 1rem;
   line-height: 1.4;
   margin: 0 0 26px;
 }
 .cont {
   padding-top: 35px;
+}
+.cont img {
+  flex-basis: 50%;
+}
+.cont text {
+  flex-basis: 50%;
 }
 .cont .btn {
   margin: 0 0 -20px;
@@ -177,7 +183,7 @@ header {
 }
 .koin-difference {
   width: 50%;
-  padding: 0 40px 0 25px;
+  padding: 0 40px 0 40px;
   color: #40494d;
 }
 
@@ -252,11 +258,18 @@ header {
 }
 .bc-2 {
   background-color: #101c21;
+
 }
 
-.logo-right {
-  float: right;
+footer{
+  display: flex;
+  justify-content: space-between;
 }
+.top{
+  display: flex;
+  justify-content: space-between;
+}
+
 .ourproduct p {
   margin: 0 0 20px 40px;
   color: #878d90;
@@ -272,18 +285,83 @@ header {
 .ourproduct .parametrs-2 li {
   margin: 0 0 13px;
 }
-footer {
+/* footer {
   padding: 100px 0 35px;
   color: white;
   font-family: Arial;
   font-weight: 300;
-}
+} */
 .top {
   display: flex;
 }
 .top .btn {
   margin: 45px 0;
 }
+
+
+footer{
+  display: flex;
+  flex-direction: column;
+  padding: 20px 50px;
+  color: #fff;
+  background-color: #101c21;
+}
+.mainFooter{
+  display: flex;
+  justify-content: space-between;
+}
+.products{
+  display: flex;
+  flex-direction: column;
+
+
+}
+.rightFooter{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 10px 50px;
+}
+.links{
+  display: flex;
+  justify-content: space-between;
+
+}
+.links>div{
+  padding: 20px;
+}
+.form{
+  display: flex;
+  flex-direction: column;
+}
+.form input{
+  width: 450px;
+  height: 50px;
+}
+.underFooter{
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  width: 100%;
+}
+.social{
+  display: flex;
+  justify-content: space-between;
+}
+.underlink ul{
+  display: flex;
+  justify-content: space-between;
+  padding: 50px;
+}
+
+
+
+
+
+
+
+
+
 
 .col {
   flex: 1 0 0;
