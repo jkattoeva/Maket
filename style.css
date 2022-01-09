@@ -153,9 +153,6 @@ header {
 .cont {
   padding-top: 35px;
 }
-.cont img {
-  flex-basis: 50%;
-}
 .cont text {
   flex-basis: 50%;
 }
@@ -167,6 +164,10 @@ header {
   color: #40494d;
 }
 .bc {
+  background-color: #f3f7f4;
+}
+/* card */
+.card {
   background-color: #f3f7f4;
 }
 
@@ -367,7 +368,7 @@ footer {
 }
 input {
   padding: 10px 0 10px  40px;
-  
+
 }
 .underFooter {
   display: flex;
