@@ -128,8 +128,9 @@ header {
 #text p {
   font-family: Arial;
   color: #40494d;
-  font-size: 1rem;
-  line-height: 1.4;
+  font-size: 1.1rem;
+  line-height: 1.5;
+  font-weight: 500;
   margin: 0 0 26px;
 }
 .cont {
