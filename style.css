@@ -4,6 +4,8 @@
   font-family: FT Polar, Helvetica Neue, Helvetica, Arial, sans-serif;
   font-weight: 300;
 }
+/* navigation */
+
 header {
   width: 100%;
   padding: 20px;
@@ -56,6 +58,8 @@ header {
   z-index: 50;
 }
 
+/* first section */
+
 .intro {
   padding: 150px 70px;
   margin: 0 auto;
@@ -98,6 +102,8 @@ header {
 .logos > img {
   padding: 25px;
 }
+
+/* second section */
 
 .content {
   display: flex;
@@ -145,6 +151,9 @@ header {
 .bc {
   background-color: #f3f7f4;
 }
+
+/* third section */
+
 .results {
   padding: 220px 50px 150px;
   color: #283337;
@@ -171,10 +180,8 @@ header {
 .automation p {
   text-align: center;
 }
-/* .card p {
-;
 
-} */
+/* fourth secrion */
 
 .video {
   padding: 150px 0;
@@ -221,6 +228,9 @@ header {
 .list h2 {
   font-weight: bold;
 }
+
+/* fivth section  */
+
 .logotips2 {
   padding-top: 150px;
 }
@@ -261,6 +271,8 @@ header {
 .bc-2 {
   background-color: #101c21;
 }
+
+/* footer */
 
 footer {
   display: flex;
@@ -423,7 +435,7 @@ ul {
   color: #cfd2d3;
 }
 .about ul li {
-  font-family: Arial;al;
+  font-family: Arial;
   font-size: 12px;
   line-height: 18px;
   padding: 10px 0 0 0;
