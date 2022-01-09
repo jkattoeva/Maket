@@ -384,7 +384,7 @@ ul {
   margin-bottom: 10px;
 }
 
-.products > ul > li {
+.products  ul  li {
   font-family: Arial;
   font-style: normal;
   font-weight: normal;
@@ -395,7 +395,7 @@ ul {
   color: #cfd2d3;
 }
 
-.btnFooter {
+.btnfooter {
   background-color: #283337;
   padding: 20px 45px;
   border-radius: 55px;
@@ -404,7 +404,7 @@ ul {
   margin-top: 50px;
 }
 
-.btnFooter  a {
+.btnfooter  a {
   color: white;
   text-decoration: none;
 }
