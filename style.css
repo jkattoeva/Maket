@@ -50,6 +50,9 @@ header {
   font-size: 20px;
   font-weight: 100;
 }
+.btn2 {
+  
+}
 .wrapper {
   max-width: 1330px;
   padding: 0 25px;
@@ -311,7 +314,7 @@ footer {
 footer {
   display: flex;
   flex-direction: column;
-  padding: 20px 50px;
+  padding: 20px 70px;
   color: #fff;
   background-color: #101c21;
 }
@@ -353,6 +356,7 @@ footer {
   justify-content: space-between;
   align-items: center;
   width: 100%;
+  margin-top: 50px;
 }
 .social {
   display: flex;
