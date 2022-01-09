@@ -384,8 +384,6 @@ ul {
 
 .products  ul  li {
   font-family: Arial;
-  font-style: normal;
-  font-weight: normal;
   font-size: 16px;
   line-height: 18px;
   padding: 10px 0 0 0;
@@ -401,8 +399,6 @@ ul {
 }
 .titleFooter {
   font-family: Arial;
-  font-style: normal;
-  font-weight: normal;
   font-size: 12px;
   line-height: 17px;
 
@@ -420,8 +416,6 @@ ul {
 }
 .support ul li {
   font-family: Arial;
-  font-style: normal;
-  font-weight: normal;
   font-size: 12px;
   line-height: 18px;
   padding: 10px 0 0 0;
@@ -429,9 +423,7 @@ ul {
   color: #cfd2d3;
 }
 .about ul li {
-  font-family: Arial;
-  font-style: normal;
-  font-weight: normal;
+  font-family: Arial;al;
   font-size: 12px;
   line-height: 18px;
   padding: 10px 0 0 0;
