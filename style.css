@@ -175,7 +175,9 @@ header {
   font-family: Arial;
   font-weight: 300;
 } 
-
+.cardlink img {
+  
+}
 /* third section */
 
 .results {
