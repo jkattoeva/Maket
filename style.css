@@ -332,7 +332,7 @@ footer {
 }
 .mainFooter {
   display: flex;
-  justify-content: space-between;
+  gap: 350px;
   padding-top: 80px;
 }
 .products {
@@ -466,6 +466,9 @@ input {
 }
 .label {
   font-size: 18px;
+}
+.logo {
+  
 }
 
 /* default */
