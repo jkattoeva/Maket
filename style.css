@@ -170,6 +170,9 @@ header {
 .card {
   background-color: #f3f7f4;
 }
+.cardlink {
+  padding: 80px;
+} 
 
 /* third section */
 
