@@ -54,6 +54,7 @@ header {
   background-color:#283337;
   padding: 20px 45px;
   border-radius: 55px;
+  border: none;
 }
 .wrapper {
   max-width: 1330px;
