@@ -174,7 +174,6 @@ header {
 .cardlink {
   padding: 100px 110px;
   font-family: Arial;
-  font-weight: 500;
 } 
 .cardlink img {
   margin: 0 0 30px;
@@ -183,12 +182,14 @@ header {
   color: #283337;
   font-size: 2rem;
   margin-bottom: 55px;
+  font-weight: 400;
 }
 .cardlink p {
   color: #40494d;
   margin: 0 0 40px;
   line-height: 1.5;
   font-size: 2;
+  font-weight: 500;
 }
 .learn {
   float: right;
@@ -196,6 +197,7 @@ header {
 .button {
   color: #283337;
   font-weight: bold;
+  font-size: large;
 }
 /* third section */
 
