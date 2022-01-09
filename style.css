@@ -363,6 +363,11 @@ footer {
   height: 50px;
   margin: 20px 0px;
   border-radius: 5px;
+
+}
+input {
+  padding: 10px 0 10px  40px;
+  
 }
 .underFooter {
   display: flex;
@@ -462,9 +467,7 @@ ul {
 
   color: #cfd2d3;
 }
-input {
-  padding-left: 40px;
-}
+
 .label {
   font-size: 18px;
 }
