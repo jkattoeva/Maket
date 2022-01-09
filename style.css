@@ -169,9 +169,10 @@ header {
 /* card */
 .card {
   background-color: #f3f7f4;
+  border-radius: 5px;
 }
 .cardlink {
-  padding: 80px 100px;
+  padding: 100px 110px;
   font-family: Arial;
   font-weight: 300;
 } 
