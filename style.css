@@ -59,6 +59,8 @@ header {
 }
 .btn2 a {
   color: white;
+  text-decoration: none;
+
 }
 .wrapper {
   max-width: 1330px;
