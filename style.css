@@ -375,8 +375,6 @@ ul {
 }
 .products h3 {
   font-family: Arial;
-  font-style: normal;
-  font-weight: normal;
   font-size: 16px;
   line-height: 18px;
 
@@ -395,7 +393,7 @@ ul {
   color: #cfd2d3;
 }
 .products button {
-
+  margin: 50px 0 0 -15px;
 }
 
 .secondul {
