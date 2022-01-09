@@ -172,6 +172,8 @@ header {
 }
 .cardlink {
   padding: 80px;
+  font-family: Arial;
+  font-weight: 300;
 } 
 
 /* third section */
