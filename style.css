@@ -51,7 +51,7 @@ header {
   font-weight: 100;
 }
 .btn2 {
-  background-color:#283337;
+  background-color: #283337;
   padding: 20px 45px;
   border-radius: 55px;
   border: none;
@@ -63,7 +63,6 @@ header {
   font-size: 20px;
   font-weight: bold;
   font-size: 1rem;
-
 }
 .wrapper {
   max-width: 1330px;
@@ -113,10 +112,10 @@ header {
   display: flex;
   flex-wrap: wrap;
   justify-content: space-between;
-  
+
   margin: 0 10px;
 }
-.logos  img {
+.logos img {
   padding: 25px;
 }
 
@@ -174,7 +173,7 @@ header {
 .cardlink {
   padding: 100px 110px;
   font-family: Arial;
-} 
+}
 .cardlink img {
   margin: 0 0 30px;
 }
@@ -260,20 +259,28 @@ header {
   margin-bottom: 24px;
   line-height: 1.5rem;
   font-size: 18px;
+  font-family: Arial;
+  font-weight: 400;
 }
 .list h3 {
   font-family: Arial;
-  font-weight: normal;
-  font-size: 13px;
+  font-weight: 300;
+  font-size: 10px;
 }
 .list ul {
   margin: 24px;
   list-style-type: none;
   line-height: 40px;
   font-size: 20px;
+  font-family: Arial;
 }
 .list h2 {
   font-weight: bold;
+}
+.secondbutton {
+  color: #40494d;
+  font-weight: bold;
+  font-size: 0.5rem;
 }
 
 /* fivth section  */
@@ -392,11 +399,9 @@ footer {
   height: 50px;
   margin: 20px 0px;
   border-radius: 5px;
-
 }
 input {
-  padding: 10px 0 10px  40px;
-
+  padding: 10px 0 10px 40px;
 }
 .underFooter {
   display: flex;
@@ -448,7 +453,7 @@ ul {
   margin-bottom: 10px;
 }
 
-.products  ul  li {
+.products ul li {
   font-family: Arial;
   font-size: 16px;
   line-height: 18px;
