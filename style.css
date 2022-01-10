@@ -113,7 +113,7 @@ header {
   flex-wrap: wrap;
   justify-content: space-between;
 
-  margin: 0 110px;
+  margin: 0 10px;
 }
 .logos img {
   padding: 25px;
@@ -281,6 +281,13 @@ header {
   color: #40494d;
   font-weight: bold;
   font-size: 0.5rem;
+}
+.secondlogos {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+
+  margin: 0 110px;
 }
 
 /* fivth section  */
